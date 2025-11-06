@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi - I'm Lars Mukherjee 👋
 
-<!--
-**Larsmukherjee/Larsmukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year [Master's student in Economics at George Mason University](https://economics.gmu.edu/programs/la-ma-econ) interested in using data along with Economic theory to solve complex problems.
+- 🔭 I’m currently finishing a course in *Computational Methods for Economists*
+- 🌱 I’m learning Python to broaden my skill set
+- 🤔 I’m looking for small projects or assignments to practice what I've learned
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lars-mukherjee/)
 
-Here are some ideas to get you started:
+## Projects
+-In class, we built a model of individual risk preferences using a stepwise elicitation function. *(link coming soon.)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats & Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larsmukherjee&layout=compact)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Larsmukherjee&show_icons=true)
