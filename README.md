@@ -7,7 +7,7 @@ I'm a second-year [Master's student in Economics at George Mason University](htt
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lars-mukherjee/)
 
 ## Projects
--In class, we built a model of individual risk preferences using a stepwise elicitation function. *(link coming soon.)*
+-In class, we built a model of individual risk preferences using a stepwise elicitation function: [Risk Preferences Project](https://github.com/Larsmukherjee/Risk-Preferences-Project.git)
 
 ### Stats & Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larsmukherjee&layout=compact)
