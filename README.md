@@ -9,6 +9,6 @@ I'm a second-year [Master's student in Economics at George Mason University](htt
 ## Projects
 -In class, we built a model of individual risk preferences using a stepwise elicitation function: [Risk Preferences Project](https://github.com/Larsmukherjee/Risk-Preferences-Project.git)
 
-### Stats & Languages
+### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larsmukherjee&layout=compact&v=2)
-![My github stats](https://github-readme-stats.vercel.app/api?username=Larsmukherjee&show_icons=true&v=2)
+
